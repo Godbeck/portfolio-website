@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website showcasing my skills, projects, and contact information.
 
 # Live Demo
-Check out the live version of my portfolio [here](https://your-portfolio-link.com).
+Check out the live version of my portfolio [here]([https://your-portfolio-link.com](https://godbeckodame.netlify.app/)).
 
 # Table of Contents
 - [Hero Section](#hero-section)
